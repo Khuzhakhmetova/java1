@@ -13,7 +13,7 @@ public class HomeWork {
         //если компютер вывел =, мы выиграли
     }
 
-    public void wordsGame() {
+    public void wordsGame() {System.out.println(1);
         // TODO: 20.01.2020  
     }
 }
